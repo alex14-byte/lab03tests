@@ -1,0 +1,11 @@
+[
+  "tesets/test.py::testCalc",
+  "tesets/test.py::testFibonacci",
+  "tesets/test.py::testSort",
+  "test.py::testCalc",
+  "test.py::testFibonacci",
+  "test.py::testSort",
+  "test/test.py::testCalc",
+  "test/test.py::testFibonacci",
+  "test/test.py::testSort"
+]
