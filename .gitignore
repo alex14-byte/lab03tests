@@ -1,0 +1,5 @@
+/.codacy-coverage/
+/.pytest_cache/
+/assets/
+/coverage_result/
+/venv/
