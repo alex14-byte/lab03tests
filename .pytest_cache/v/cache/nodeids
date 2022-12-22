@@ -5,6 +5,9 @@
   "test.py::testCalc",
   "test.py::testFibonacci",
   "test.py::testSort",
+  "test/pytest_test.py::testCalc",
+  "test/pytest_test.py::testFibonacci",
+  "test/pytest_test.py::testSort",
   "test/test.py::testCalc",
   "test/test.py::testFibonacci",
   "test/test.py::testSort"
