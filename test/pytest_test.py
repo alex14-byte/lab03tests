@@ -1,7 +1,6 @@
-import testing
+import src.testing as testing
+import pytest
 
-
-# Граничные значения натуральные числа
 def testFibonacci():
     n = list(testing.fibonacci(4))
     assert n == [1,1,2,3]
